@@ -16,11 +16,6 @@ Java 21, Spring Boot 3.4, RestClient, Caffeine caching, Micrometer metrics
 with InfluxDB and Grafana, Docker, GitHub Actions CI, and a small Vue 3 frontend.
 58 backend tests and 39 frontend tests.
 
-**[sentence-splitter-app](https://github.com/arametta/sentence-splitter-app)**
-Command-line tool that splits text into sentences and words, sorts the words,
-and writes XML or CSV. Streams the input so large files run with a 32 MB heap.
-Java 17, JAXB, JUnit 5, GitHub Actions CI.
-
 ## How I work with AI
 
 I wrote code the classic way for almost all my career, before AI tools existed.
